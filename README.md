@@ -1,3 +1,18 @@
+Hi there! 
+Flutter expert with 6+ years in the field. Led teams building mobile apps and libraries using Flutter since its early days. Skilled at guiding developers to create high-quality Flutter projects.
+🌱 What I'm currently learning
+👨🏾‍💻 Currently diving into content creation - whipping up YouTube videos and Teachable courses on Flutter. Always excited to share knowledge and learn new tricks in the Flutter ecosystem. What's next? Whatever cool tech catches my eye! 🚀
+
+
+⚡ “The more I learn, the more I realize how much I don't know.” ― Albert Einstein
+I'm available to speak at events or join panel discussions to share technical knowledge. Feel free to reach out if you need a Flutter expert for your conference or meetup.
+🔥 Recent Talks and Workshops
+Flutter & AI Fusion: Powering Apps with Intelligence
+Debug Like a Pro: Harnessing the Power of Dart DevTools in Flutter
+Flutter Go Router In Depth
+Flutter Workshop: Consuming APIs like an Expert
+Git For Kids
+Flutter Workshop: Mastering Flutter BLoC
 
 # Simple News App - Flutter Clean Architecture with BLOC, Freezed, Get_It Package
 
