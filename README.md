@@ -18,33 +18,6 @@ The app uses the BLOC (Business Logic Component) pattern to manage the state of 
 <img src="https://github.com/mimamch/news_app_clean_architecture/blob/main/screenshot1.png" width="100">
 
 
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/mimamch/news_app_clean_architecture
-   ```
-
-2. Change to the project directory:
-
-   ```bash
-   cd news_app_clean_architecture
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the app:
-
-   ```bash
-   flutter run
-   ```
-
 ## Structure
 
 The app follows the Clean Architecture principles, with the following structure:
